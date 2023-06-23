@@ -4,7 +4,7 @@ library(ineq)
 data1 <- read.csv(file.choose(), header=T)
 data1
 
-#piping : All variables
+#piping : All variables.
 data1 %>%
   ggplot( aes(TimeMin, rmsMicrons))  + 
   geom_point(aes(size = Zaxis, color = Light), alpha = 0.5) +
