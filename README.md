@@ -7,4 +7,5 @@ data plots and analysis from Kapton samples taken from Profilometer with variabl
 <img src="plot images/time Vs light.png" alt="Alt text" title="Optional title">
 
 
-Main result: The linear fit shows that there is a significant change to the kapton surface in the interval between 100min and 120 min.
+Main result: The linear fit shows that there is a significant change to the kapton surface in the interval between 100min and 130 min.
+Limitation: More data sets are needed which is currently in progress. Taking measurements using the optical profilometer takes time and currently working on to use automation tool using python to take measurements without the need for lab technician.
