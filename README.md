@@ -6,7 +6,5 @@ data plots and analysis from Kapton samples taken from Profilometer with variabl
 <img src="plot images/Time vs rms.png" alt="Alt text" title="Optional title">
 <img src="plot images/time Vs light.png" alt="Alt text" title="Optional title">
 
-TIme vs Z.png
-Time vs rms.png
-roughness vs time all var.png
-time Vs light.png
+
+Main result: The linear fit shows that there is a significant change to the kapton surface in the interval between 100min and 120 min.
