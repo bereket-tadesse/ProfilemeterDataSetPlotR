@@ -13,7 +13,7 @@ data1 %>%
   facet_wrap(~Magnification , labeller = labeller(Magnification = 
                                                     c("2.5" = "Maginification: 2.5"))) +
   labs(title = "Time Vs Rouhgness of Kapton ", x = "Time (Min)", y= "Rouhgness (microns)")  +
- scale_y_continuous(expand = c(0,0),limits = c(0, 20))
+  scale_y_continuous(expand = c(0,0),limits = c(0, 20))
   
  # rms_list <- data1[5] +
  # text(x = 300, y = 300,                # Text with different color & size
